@@ -1,4 +1,4 @@
-// MidasTouch mod by tombailey94
+// MidasToucwh mod by tombailey94
 // version 0.0.1
 
 function newLevel() {
